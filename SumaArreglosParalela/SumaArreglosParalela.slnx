@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="SumaArreglosParalela/SumaArreglosParalela.vcxproj" Id="a81ae56d-fdf6-4b5e-a068-ace9ed0a1b50" />
+</Solution>

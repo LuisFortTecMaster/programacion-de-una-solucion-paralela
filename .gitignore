@@ -39,3 +39,15 @@
 
 # debug information files
 *.dwo
+
+# Visual Studio / VS Code
+.vs/
+x64/
+Debug/
+Release/
+
+# Ejecutables
+*.exe
+*.obj
+*.pdb
+*.ilk
